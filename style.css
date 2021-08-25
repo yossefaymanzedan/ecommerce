@@ -40,11 +40,11 @@
   position: absolute;
   top: 102%; }
 
-.dropdown-menu {
+.drop1 {
   width: 400px; }
 
 @media (max-width: 767.98px) {
-  .dropdown-menu {
+  .drop1 {
     width: 70vw; } }
 
 /*!
